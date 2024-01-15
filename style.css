@@ -1,0 +1,24 @@
+
+        .highlight {
+            background-color: darkorange;
+            text-align: center;
+            padding: 5px;
+        }
+        .navbar li {
+            display: inline;
+            padding: 25px;
+        }
+        .navbar .pl-1 {
+         padding-left: 250px ;
+        }
+        a:link {
+            text-decoration: none; 
+        }
+        #productmenu li {
+            display: inline;
+            padding: 30px;
+        }
+        #utility> li {
+            display: inline;
+        }
+    </style>
